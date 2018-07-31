@@ -1,0 +1,6 @@
+sudo pip install pathos
+sudo pip install --upgrade google-api-python-client
+sudo pip install requests
+sudo pip install progressbar
+sudo pip install autosub
+sudo apt install ffmpeg

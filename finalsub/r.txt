@@ -1,0 +1,3 @@
+ffmpeg-python==0.1.
+google-api-python-client==1.6.4
+python-qt==0.5.0
